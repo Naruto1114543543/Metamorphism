@@ -1,5 +1,5 @@
 # Metamorphisos
-Metamorphisos Client (Improved SonOyuncu module)
+Metamorphisos Client (Improved SonOyuncu module)  
 Metamorphisos oyun deneyimlerinizi üst seviyeye taşıyacak bir Client modülüdür. SO-H2 yapısının geliştirilmiş ve yenilenmiş sürümüdür.
 
 
